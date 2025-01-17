@@ -11,4 +11,4 @@ The following versions of Delivery Butler are supported:
 
 ## Reporting a Vulnerability
 
-Report vulnerabilities found in the project to: welcome@foodscoot.net 
+Report vulnerabilities found in the project to: dev@foodscoot.net 
