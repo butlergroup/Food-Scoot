@@ -12,4 +12,4 @@ We're going to charge vendors lower commission fees than any other competitors c
 
 The margin left is still more than enough to pay a management staff with, and our management staff won't do things like decide to go public, or take 7-figure salaries to go buy yachts and private jets. 
 
-If you're interested in contributing to or sponsoring the project, please reach out to welcome@deliverybutler.net. Thank you! 
+If you're interested in contributing to or sponsoring the project, please reach out to welcome@foodscoot.net. Thank you! 
