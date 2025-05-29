@@ -1,6 +1,6 @@
 # Food Scoot
 
-![logo](https://github.com/user-attachments/assets/65434d3a-0602-424b-9e1e-5f9e95e3378d)
+![logo_small](https://github.com/user-attachments/assets/0e7c0931-9a79-44ca-b73d-9a384ba8980d)
 
 First and foremost (and information a potential investor might want to know): a production/release version of this app is already built, but we elected to go back to the proverbial "drawing board" to construct it with fully memory-safe programming languages. 
 
