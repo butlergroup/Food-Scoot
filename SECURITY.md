@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-The following versions of Delivery Butler are supported: 
+The following versions of Food Scoot are supported: 
 
 | Version | Supported          |
 | ------- | ------------------ |
