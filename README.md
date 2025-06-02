@@ -9,7 +9,7 @@ First and foremost (and information a potential investor, customer, or vendor mi
 
 Other delivery apps on the market deliver groceries, meals, or other commodities... but not every commodity. We allow any vendor with a valid EIN to register and list their products for sale. If it's sold as a tangible product, we'll deliver it. How do we stand out, you ask? :sparkles:
 
-Wee pay our delivery drivers their state minimum wage **plus** their tips. We offer vendors lower commission fees than any other competitors currently at market. :tada:
+We pay our delivery drivers their state minimum wage **plus** their tips. We offer vendors lower commission fees than any other competitors currently at market. :tada:
 
 The margin left is still more than enough to pay a management staff with, and our management staff won't do things like decide to go public, or take 7-figure salaries to go buy yachts and private jets. :bowtie:
 
