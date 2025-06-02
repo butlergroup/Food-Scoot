@@ -1,3 +1,6 @@
+[![Feature Requests](https://img.shields.io/github/issues/butlergroup/Food-Scoot/feature-request.svg)](https://github.com/butlergroup/Food-Scoot/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+[![Bugs](https://img.shields.io/github/issues/butlergroup/Food-Scoot/bug.svg)](https://github.com/butlergroup/Food-Scoot/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
+
 # Food Scoot
 
 ![logo_small](https://github.com/user-attachments/assets/0e7c0931-9a79-44ca-b73d-9a384ba8980d)
