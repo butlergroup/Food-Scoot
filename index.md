@@ -17,6 +17,6 @@ All new customers get a 30-day free trial of Scoot Serve (low or no delivery fee
 
 * * *
 
-Would you like to suggest a new feature for Food Scoot? [Open an Issue on Github](https://github.com/butlergroup/Food-Scoot/issues) and select "Feature request."
+Would you like to suggest a new feature for Food Scoot? [Open an Issue on Github](https://github.com/butlergroup/Food-Scoot/issues){:target="_blank"} and select "Feature request."
 
 > When something is important enough, you do it even if the odds are not in your favor.
