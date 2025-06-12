@@ -13,6 +13,8 @@ We pay our delivery drivers their state minimum wage **plus** their tips. We off
 
 The margin left is still more than enough to pay a management staff with, and our management staff won't do things like decide to go public, or take 7-figure salaries to go buy yachts and private jets. :bowtie:
 
+Another feature that makes Food Scoot stand out is that we’re attempting to address the serious issue of [food waste](https://www.fda.gov/food/consumers/food-loss-and-waste). Vendors will be able to use a special feature in their app dashboard to send food that’s about to expire to a local food bank, homeless shelter, etc. instead of throwing it away. :star:
+
 If you're interested in contributing to or sponsoring the project, please reach out to welcome@foodscoot.net. Thank you! :)
 
 ## Acknowledgments
