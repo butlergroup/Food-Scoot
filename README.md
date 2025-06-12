@@ -23,8 +23,8 @@ Special thanks to contributors, enthusiasts, and supporters of Food Scoot's visi
 
 ## Terms of Service
 
-Please read our [Terms of Service](https://github.com/butlergroup/Food-Scoot/blob/main/terms_of_service.html) before using our software. Violators of these Terms are not supported by the community or contributors.
+Please read our [Terms of Service](https://github.com/butlergroup/Food-Scoot/blob/main/terms-of-service.md) before using our software. Violators of these Terms are not supported by the community or contributors.
 
 ## Privacy Policy
 
-Please also read our [Privacy Policy](https://github.com/butlergroup/Food-Scoot/blob/main/privacy_policy.html) to understand how we handle your personal information. 
+Please also read our [Privacy Policy](https://github.com/butlergroup/Food-Scoot/blob/main/privacy-policy.md) to understand how we handle your personal information. 
