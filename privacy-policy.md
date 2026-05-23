@@ -2,9 +2,9 @@
 layout: default
 ---
 [back](./)
-## Who we are: The Butler Group LLC DBA (“doing business as”) “Food Scoot.”
+## Who we are: The Butler Group LLC
 
-The Butler Group LLC (DBA "Food Scoot") respects your privacy.
+The Butler Group LLC respects your privacy.
 In the course of providing our services we sometimes collect, store, and use your personal and business
 information for specifically defined purposes.
 We use your information to support and enhance our relationship with you, to provide service and support, and to
@@ -13,15 +13,15 @@ Under no circumstances do we sell your information to a third party.
 We do however reserve the right to share your information outside the company as required by specific law, or if
 compelled to do so by a subpoena.
 If it is deemed necessary to share your information with a third party, we will only do so with your express
-written consent, and then only with partners who are also legally bound to The Butler Group LLC (DBA "Food Scoot") to protect your
+written consent, and then only with partners who are also legally bound to The Butler Group LLC to protect your
 privacy and data.
 
-Agents, employees, or contractors of The Butler Group LLC (DBA "Food Scoot") who have access to your information are required to
+Agents, employees, or contractors of The Butler Group LLC who have access to your information are required to
 keep the information confidential and not use it for any other purpose than to carry out the services they are
-performing for The Butler Group LLC (DBA "Food Scoot").
+performing for The Butler Group LLC.
 
-The Butler Group LLC (DBA "Food Scoot") may be required to disclose your information in connection with law enforcement, fraud
-prevention, government regulation, or other legal action, or if The Butler Group LLC (DBA "Food Scoot") reasonably believes it is
+The Butler Group LLC may be required to disclose your information in connection with law enforcement, fraud
+prevention, government regulation, or other legal action, or if The Butler Group LLC reasonably believes it is
 necessary to do so to protect itself, its customers, or the public.
 
 ## Embedded Content From Other Websites
@@ -45,15 +45,15 @@ This does not include any data we are obliged to keep for administrative, legal,
 
 ## Limitation of Liability
 
-Under no circumstances including but not limited to negligence shall The Butler Group LLC (DBA "Food Scoot") be liable for any
+Under no circumstances including but not limited to negligence shall The Butler Group LLC be liable for any
 direct, indirect, special, incidental, or consequential damages including but not limited to loss of data or
-profit arising out of any breach of this privacy policy even if The Butler Group LLC (DBA "Food Scoot") or one of its authorized
+profit arising out of any breach of this privacy policy even if The Butler Group LLC or one of its authorized
 agents have been advised of the possibility of such damages. 
 
 ## Privacy Policy Revisions
 
-The Butler Group LLC (DBA "Food Scoot") may at any time revise this Privacy Policy by updating this posting.
+The Butler Group LLC may at any time revise this Privacy Policy by updating this posting.
 By using our services, you agree to be bound by any such revisions and should therefore periodically visit this
 page to determine the then current Privacy Policy to which you are bound.
 
-Questions about the Privacy Policy should be sent to us at welcome@butlergroup.net. 
+Questions about the Privacy Policy should be sent to us at legal@butlergroup.net. 

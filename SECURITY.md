@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-The following versions of Food Scoot are supported: 
+The following versions of Food Scoot are supported under a Service Level Agreement (SLA). Any version indicated with a red X will receive support on a best-effort and case-by-case basis:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -11,4 +11,4 @@ The following versions of Food Scoot are supported:
 
 ## Reporting a Vulnerability
 
-Report vulnerabilities found in the project to: dev@foodscoot.net 
+Report any vulnerabilities found to: dev@butlergroup.net

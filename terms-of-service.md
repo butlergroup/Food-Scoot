@@ -6,9 +6,9 @@ layout: default
 
 ## Overview
 
-This website/application is operated by The Butler Group LLC (DBA "Food Scoot").
-Throughout the site, the terms “we”, “us” and “our” refer to The Butler Group LLC (DBA "Food Scoot").
-The Butler Group LLC (DBA "Food Scoot") offers this website/application including all information, tools, and services available from this site
+This website/application is operated by The Butler Group LLC.
+Throughout the site, the terms “we”, “us” and “our” refer to The Butler Group LLC.
+The Butler Group LLC offers this website/application including all information, tools, and services available from this site
 to you, the user, conditioned upon your acceptance of all terms, conditions, policies, and notices stated
 herein.
 
@@ -239,7 +239,7 @@ by us) provided "as is" and "as available" for your use without any representati
 any kind, either express or implied, including all implied warranties or conditions of merchantability,
 merchantable quality, fitness for a particular purpose, durability, title, and non-infringement.
 
-In no case shall The Butler Group LLC (DBA "Food Scoot"), our directors, officers, employees, affiliates, agents, contractors,
+In no case shall The Butler Group LLC, our directors, officers, employees, affiliates, agents, contractors,
 interns, suppliers, service providers, or licensors be liable for any injury, loss, claim, or any direct,
 indirect, incidental, punitive, special, or consequential damages of any kind, including without limitation lost
 profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages whether based in
@@ -254,7 +254,7 @@ permitted by law.
 
 ## Section 14 - Indemnification
 
-You agree to indemnify, defend, and hold harmless The Butler Group LLC (DBA "Food Scoot") and our parent, subsidiaries, affiliates,
+You agree to indemnify, defend, and hold harmless The Butler Group LLC and our parent, subsidiaries, affiliates,
 partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers,
 interns, and employees from any claim or demand including reasonable attorney's fees made by any third-party due
 to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or
@@ -316,4 +316,4 @@ policy of the respective manufacturer.
 
 ## Section 21 - Contact Information
 
-Questions about the Terms of Service should be sent to us at welcome@butlergroup.net. 
+Questions about the Terms of Service should be sent to us at legal@butlergroup.net. 
